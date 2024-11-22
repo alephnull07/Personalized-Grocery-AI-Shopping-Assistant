@@ -9,5 +9,8 @@
 **Impact**: Saves time and money by helping users make better grocery choices while adhering to dietary preferences and budget constraints.
 
 **Figma**: https://www.figma.com/design/ZJVprHQTGhKUmJ3C0ZtDBY/MAP-Project-2024-2025?node-id=0-1&t=1GOkMB7wLpAnd8l6-1
+
+**Tech Stack** 
+
 ## User Guide
 TBD
