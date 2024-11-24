@@ -12,6 +12,7 @@
 
 **Tech Stack** 
 React Native
+TypeScript
 
 ## User Guide
 TBD
