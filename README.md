@@ -1,4 +1,4 @@
-# Cartelligence
+# Cartelligence: A Personalized AI Grocery Shopping Assistant
 ## Overview
 **Problem**: Shopping for groceries can be time-consuming and overwhelming, especially when trying to stick to a budget or a diet plan.
 
